@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omplerdak.github.io/sitemap
+Sitemap: https://omplerdak.github.io/app/sitemap
+Sitemap: https://omplerdak.github.io/assets/sitemap
+Sitemap: https://omplerdak.github.io/css/sitemap
+Sitemap: https://omplerdak.github.io/includes/sitemap
+Sitemap: https://omplerdak.github.io/item/sitemap
+Sitemap: https://omplerdak.github.io/src/sitemap
